@@ -202,9 +202,3 @@ This project demonstrates the following concepts:
 Campusly demonstrates the development of a responsive student management website using React, JavaScript, CSS, and Vite. Its multiple pages, reusable components, client-side navigation, and form interfaces provide a foundation for understanding modern frontend development.
 
 The project can be extended with backend integration, database storage, secure user authentication, and student record management to develop a more complete student management system.
-
-## 👩‍💻 Author
-
-**Padarthi Divyasri**
-
-GitHub Repository: [Experiment12](https://github.com/padarthidivyasri/Experiment12)
